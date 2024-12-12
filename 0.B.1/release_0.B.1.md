@@ -6,5 +6,5 @@ Première version du programme du robot.
 
 ## Modifications
 
-Ajout des fonctionnalités du joystick (variables, initialisation des entrées).<br />
-Création d'une fonction renvoyant une valeur binaire lors d'un clic sur le joystick (précédemment 1023 sur l'information de l'axe X du joystick).
+ - Ajout des fonctionnalités du joystick (variables, initialisation des entrées).<br />
+ - Création d'une fonction renvoyant une valeur binaire lors d'un clic sur le joystick (précédemment 1023 sur l'information de l'axe X du joystick).
