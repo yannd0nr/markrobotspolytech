@@ -12,10 +12,15 @@ Du fait de notre procédé de développement, nous avons dans un premier temps d
 
 #### Programme fonctions principales du robot
 Les programmes fonctions principales sont développés pour répondre au cahier des charges sur la partie déplacement du robot et trajectoire du robot.
+Notation des programmes 0.A.X avec X correspondant au numéro de révision de la version.
 
 #### Programme fonctions secondaires du robot
+Les programmes fonctions secondaires sont développés pour répondre au cahier des charges au niveau des fonctionnalités aditionnelles (comptage du temps de course, comptage du nombre de tours de roues, etc...).
+Notation des programmes 0.B.X avec X correspondant au numéro de révision de la version.
 
-
+#### Programme final du robot
+Les versions finales du programme du robot sont les versions combinées des fonctions prinipales et secondaires développées précédemment.
+Notation des programmes 1.X.Y avec X correspondant au numéro de révision majeur du programme et Y correspondant au numéro de révision mineur du programme.
 
 ## Auteurs
 Pierre BOURIAUD
