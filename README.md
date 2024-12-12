@@ -23,10 +23,10 @@ Les versions finales du programme du robot sont les versions combinées des fonc
 Notation des programmes 1.X.Y avec X correspondant au numéro de révision majeur du programme et Y correspondant au numéro de révision mineur du programme.
 
 ## Auteurs
-Pierre BOURIAUD
-Baptiste POIDVIN
-Alexandre GUILBAUD
-Yann DONNARD
+Pierre BOURIAUD<br />
+Baptiste POIDVIN<br />
+Alexandre GUILBAUD<br />
+Yann DONNARD<br />
 
 ## Sources
 Bibliothèque constructeur (generationrobots-lab) : https://github.com/generationrobots-lab/MARK
