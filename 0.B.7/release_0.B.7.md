@@ -6,4 +6,6 @@ Septième version du programme du robot.
 
 ## Modifications
 
-- Modification 
+- Implémentation de la bibliothèque pour les encodeurs des moteurs.
+- Ajout des encodeurs des moteurs (encodeur moteur droit et encodeur moteur gauche)
+- Ajout de multiples conditions de fin de course (commentées dans le programme)
