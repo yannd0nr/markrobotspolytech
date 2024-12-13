@@ -6,4 +6,4 @@ Huitième version du programme du robot.
 
 ## Modifications
 
-- Suppression de l'interruption d'appui sur le bumper gauche
+- Ajout d'une interruption déclenchée lors d'un appui sur le bumper gauche
