@@ -2,7 +2,7 @@
 
 Date : 15/11/2024 - 15 nov. 2024<br />
 
-Quatrième version du programme du robot.
+Sixième version du programme du robot.
 
 ## Modifications
 
