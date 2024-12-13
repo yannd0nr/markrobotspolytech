@@ -1,10 +1,9 @@
 # Version 0.A.6 - Robot M.A.R.K
 
-Date : 25/10/2024 - 25 oct. 2024<br />
+Date : 15/11/2024 - 15 nov. 2024<br />
 
-Cinquième version du programme du robot.
+Sixième version du programme du robot.
 
 ## Modifications
 
-- Implémentation des capteurs moustache des bumpers frontaux (droite et gauche)
-- Ajout d'une fonction d'arrêt de course lorsqu'un bumper est appuyé
+- Ajout des différentes étapes de trajectoire dans la boucle principale
