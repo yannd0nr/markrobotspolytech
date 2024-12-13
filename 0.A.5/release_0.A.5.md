@@ -6,4 +6,5 @@ Cinquième version du programme du robot.
 
 ## Modifications
 
-- 
+- Implémentation des capteurs moustache des bumpers frontaux (droite et gauche)
+- Ajout d'une fonction d'arrêt de course lorsqu'un bumper est appuyé
