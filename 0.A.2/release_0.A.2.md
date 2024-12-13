@@ -2,7 +2,7 @@
 
 Date : 23/10/2024 - 23 oct. 2024<br />
 
-Première version du programme du robot.
+Deuxième version du programme du robot.
 
 ## Modifications
 
