@@ -7,7 +7,7 @@
  *  Alexandre GUILBAUD
  *  Yann DONNARD
  *  
- *  Version 0.2 du 23/10/2024
+ *  Version 0.B.2 du 23/10/2024
  */
 
 /* Initialisation des variables */
