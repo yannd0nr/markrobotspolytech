@@ -9,4 +9,3 @@ Neuvième version du programme du robot.
 - Implémentation de la bibliothèque du panneau LCD
 - Ajout de variables permettant de définir l'état du robot (en course, quelle étape...)
 - Modification de la gestion de la boucle principale/course
-- 
